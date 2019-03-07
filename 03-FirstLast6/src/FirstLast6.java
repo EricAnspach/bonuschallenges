@@ -6,7 +6,6 @@ public class FirstLast6 {
 
         System.out.println();
         System.out.println(firstLast6(nums));
-
     }
 
     public static boolean firstLast6(int[] nums) {
