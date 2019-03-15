@@ -11,6 +11,7 @@ public class ReplaceVowels {
 
             String sentence = Console.getString("Type in any sentence: ");
 
+
             sentence = sentence.replace("a", "_").replace("A", "_")
                     .replace("e","_").replace("E", "_")
                     .replace("i", "_").replace("I", "_")

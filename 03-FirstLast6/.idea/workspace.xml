@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e68a2f92-01e0-4c37-9699-fee49186b044" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../04-RotateLeft/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04-RotateLeft/src/RotateLeft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstLast6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstLast6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-StringBits/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-StringBits/src/StringBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-MakeChocolate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-MakeChocolate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../March12Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../March12Challenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +18,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FirstLast6.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,6 +59,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,7 +76,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,9 +126,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
