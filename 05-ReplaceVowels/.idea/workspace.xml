@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e75e590-8324-48b2-b510-3fa3eb0eca95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../06-StringBits/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-StringBits/src/Console.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../06-StringBits/src/StringBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-MakeChocolate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-MakeChocolate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-FirstLast6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03-FirstLast6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplaceVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplaceVowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../March12Challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../March12Challenge/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9e75e590-8324-48b2-b510-3fa3eb0eca95" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +133,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
